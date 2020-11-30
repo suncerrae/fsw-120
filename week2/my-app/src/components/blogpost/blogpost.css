@@ -1,0 +1,47 @@
+.blog-container {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 55px;
+    margin-bottom: 20px;
+    padding: 25px;
+}
+
+.blog-title {
+    font-weight: 800;
+    line-height: 1.2;
+    font-size: 36px;
+}
+
+.blog-title:hover {
+    color: #0085a1;
+}
+
+.blog-subtitle{
+    line-height: 1.5;
+    margin: 0 0 10px;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.blog-subtitle:hover {
+    color: #0085a1
+}
+
+.blog-author {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+    color: #868e96;
+}
+
+.blog-date {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+    color: #868e96;
+}
+
+hr {
+    margin-top: 25px;
+    color: #868e96;
+}
