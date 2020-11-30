@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
+import './app.css';
 import vacaSpots from './locations/vacaSpots'
-import Spot from './locations/Spot'
-import Header from './locations/Header'
+import Spot from './locations/spot'
+import Header from './locations/header'
 
 function App() {
   

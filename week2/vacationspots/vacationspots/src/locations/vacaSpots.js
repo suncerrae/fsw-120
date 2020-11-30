@@ -2,8 +2,8 @@ let vacaSpots = [
 
     {
         id: 1,
-        place: "Dublin, Ireland",
-        price: 2200,
+        place: "Kingston, Jamaica",
+        price: 1300,
         timeToGo: "Spring"
     },
     {
@@ -14,20 +14,20 @@ let vacaSpots = [
     },
     {
         id: 3,
-        place: "Ko Samui, Thialand",
-        price: 987,
+        place: "Phuket, Thailand",
+        price: 1000,
         timeToGo: "Summer"
     },
     {
         id: 4,
-        place: "Cairo, Africa",
+        place: "London, United Kingdom",
         price: 5500,
         timeToGo: "Spring"
     },
     {
         id: 5,
-        place: "Oahu, Hawaii",
-        price: 6000,
+        place: "Nassau, Bahamas",
+        price: 500,
         timeToGo: "Fall"
     }
 ]
