@@ -1,5 +1,5 @@
 import React from 'react'
-import BlogPost from '../blogpost/BlogPost'
+import BlogPost from '../blogpost/blogpost'
 import blogInfo from '../bloginfo/blogInfo'
 import './blogList.css'
 

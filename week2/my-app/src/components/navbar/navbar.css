@@ -1,0 +1,21 @@
+.navbar-container {
+    padding-top: 20px;
+}
+
+.start-blog {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 27%;
+    margin-left: 22%;
+    color: white;
+}
+
+.navbar-options {
+    text-decoration: none;
+    padding: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    }
