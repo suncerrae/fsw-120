@@ -1,0 +1,16 @@
+.heading {
+    color: rgb(240, 24, 24);
+}
+
+.dice {
+    border: 2px solid black;
+    margin-right: 46%;
+    margin-left: 46%;
+    padding: 25px;
+    background-color: rgb(212, 22, 22);
+}
+
+button {
+    font-size: 20px;
+    padding: 5px;
+}
