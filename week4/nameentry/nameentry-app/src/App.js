@@ -1,0 +1,14 @@
+
+import React from 'react';
+import './App.css';
+import NameForm from './name-entries/nameForm/name-form.css';
+
+function App() {
+  return (
+    <div>
+      <NameForm />
+    </div>
+  );
+}
+
+export default App;
