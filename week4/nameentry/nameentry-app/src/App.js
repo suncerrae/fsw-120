@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './App.css';
-import NameForm from './name-entries/nameForm/name-form.css';
+import NameForm from './name-entries/nameForm/NameForm';
 
 function App() {
   return (

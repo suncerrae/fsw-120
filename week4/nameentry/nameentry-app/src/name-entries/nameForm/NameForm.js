@@ -1,6 +1,6 @@
 import React from 'react';
 import NameList from '../NameList';
-import './nameform.css';
+import './name-form.css';
 
 class NameForm extends React.Component {
     constructor() {
