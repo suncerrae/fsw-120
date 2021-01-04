@@ -1,5 +1,5 @@
 .navbar-container {
-    background-color: #473d38;
+    background-color: #f0ebe8;
     padding: 25px;
 }
 
@@ -10,7 +10,7 @@
 
 .navbar-links {
     text-decoration: none;
-    color: white;
+    color: rgb(8, 1, 1);
     font-weight: bold;
     font-size: 25px;
 }

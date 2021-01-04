@@ -7,7 +7,7 @@ function Services() {
       <div className="main-container">
     <div>
         <h1 className="services-title">Our Services</h1>
-        <img src="https://images.unsplash.com/photo-1454988501794-2992f706932e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" className="service-image" alt="tools"/>
+        <img src="https://media.istockphoto.com/photos/young-man-fixing-a-leak-under-the-bathroom-sink-picture-id1146120013?k=6&m=1146120013&s=612x612&w=0&h=NbTRJgT31dTZVMN0KfRFU7Fr8PPeNiAbJNqf3XoZHrs=" className="service-image" alt="tools"/>
     </div>
     <div>
         <h2 className="services">Installation, Repair or Replacement:</h2>

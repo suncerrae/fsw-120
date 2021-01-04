@@ -5,11 +5,11 @@ function Home() {
   return (
     <div>
         <div className="home-container" >
-            <h1 className="title">Doctor Drains</h1>
-            <h3 className="subtitle">There is no plumbing problem we can't handle.</h3>
+            <h1 className="title">Beckley Plumbers Plumbing</h1>
+            <h3 className="subtitle">There is no plumbing we CAN'T handle.</h3>
         </div>
         <div>
-            <h1 className="tips-intro">Doctor Drains is here for you when you need our plumbing services. Until then, make sure to follow our 6 best tips and tricks to keep all your plumbing functioning properly. </h1>
+            <h1 className="tips-intro">Beckley Plumbers  is here for you when you need our plumbing services. Until then, make sure to follow our 6 best tips and tricks to keep all your plumbing functioning properly. </h1>
             <h1 className="tips-title">Our Top 6 Plumbing Tips</h1>
             <h2 className="tips">1. Don’t Pour Grease Or Oil Down The Drain</h2>
             <h4 className="tips-info">The grease and oil will build up. You won’t notice it at first – you’ll think it’s totally fine, and that as a liquid, down the sink is where it should go. But little by little that grease and oil will clog your pipes and leave you with some serious plumbing problems.Think about your pipes before pouring that cooking liquid down the drain, and opt for a safer disposal option. For example, wait for fat to solidify before throwing it in your compost bin.</h4>
