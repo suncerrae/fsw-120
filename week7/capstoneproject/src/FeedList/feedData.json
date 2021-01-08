@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Tina Smith",
+        "tag": "@smith214",
+        "message": "Back to the grind (or did we ever leave?) - Happy Monday all. It's a new week, start strong and remember to weave kindness into all that you do. Use your talents & passion to make the impossible happen.",
+        "imageName": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1150881602%2F0x0.jpg%3Ffit%3Dscale"
+    },
+    {
+        "id": 2,
+        "name": "Maya Robinson",
+        "tag": "@mayaloves",
+        "message": "Be a blessing. Encourage someone.. time is short",
+        "imageName": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 3,
+        "name": "Mark James",
+        "tag": "@mjames89",
+        "message": "Buying your friends gifts for birthdays & holidays should be normalized!",
+        "imageName": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/09/Screen-Shot-2020-09-23-at-3.17.10-PM.png"
+    },
+    {
+        "id": 4,
+        "name": "Vince Perez",
+        "tag": "@Perez_V",
+        "message": "Many people wait for an opportunity instead of creating an opportunity. Fortune favors the bold. If you want something, take it. If you desire something, go get it. If you don't attack your dreams they end up becoming regrets.",
+        "imageName": "https://www.bates.edu/news/files/2020/10/200821_Michael_Roman_0058.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Shawn Carter",
+        "tag": "@theroc1204",
+        "message": "Who is Kanye West",
+        "imageName": "https://afropunk.com/wp-content/uploads/2019/06/Black-Men-Healing-996.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Beyonce",
+        "tag": "@Beyonce",
+        "message": "2day is ours, live it, love is strong, give it.A song can help,sing it. peace is dear, bring it. Past is gone, don’t rue it. Our work is here, let’s do it.",
+        "imageName": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/61098629-142271296925678-2261408393064324386-n-fix-1559916285.jpg?crop=1xw:1xh;center,top&resize=480:*"
+    },
+    {
+        "id": 7,
+        "name": "Peter Johnson",
+        "tag": "@Petertime",
+        "message": "I love what I do, and when you love what you do you want to be the best at it.#JayZ ",
+        "imageName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuc07xeVwkFS77GaNlygKipZr2djkKyU-yAw&usqp=CAU"
+    }
+    
+    
+]

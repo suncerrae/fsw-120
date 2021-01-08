@@ -1,0 +1,40 @@
+  
+.post-wrapper {
+    margin-top: 5%;
+}
+
+.user-name {
+  font-size: 16px;
+  padding: 1.5%;
+  margin-bottom: 1%;
+  border: none;
+  background-color: #15202a;
+  color: white;
+  margin-right: 1%;
+}
+
+.tag-name {
+  font-size: 16px;
+  padding: 1.5%;
+  margin-bottom: 1%;
+  border: none;
+  color: white;
+  background-color: #15202a;
+}
+
+.text-box {
+  font-size: 16px;
+  padding: 1%;
+  margin-bottom: 3%;
+  border: none;
+  color: white;
+  background-color: #15202a;
+}
+
+@media screen and (min-width: 700px) {
+  
+  .post-wrapper {
+    text-align: center;
+    margin-top: 5%;
+  }
+}
